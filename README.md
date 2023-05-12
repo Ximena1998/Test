@@ -1,9 +1,9 @@
 # Ejercicios.
 ***
-• Crear una función que permita multiplicar dos numero sin utilizar el signo de 
+* Crear una función que permita multiplicar dos numero sin utilizar el signo de 
 multiplicación.
-• Crear una función que permita eliminar los undefined, null, 0 y false de un array.
-• Escribir una función que permita contar las palabras que se repitan en una cadena 
+* Crear una función que permita eliminar los undefined, null, 0 y false de un array.
+* Escribir una función que permita contar las palabras que se repitan en una cadena 
 de texto.
 # Maquetación.
 ***
